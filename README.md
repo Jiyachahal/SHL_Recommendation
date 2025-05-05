@@ -1,6 +1,6 @@
 # 🛍️ Product Recommender System
 
-An AI-powered product recommender system built with Django, featuring a custom-trained machine learning model that suggests relevant products based on user input. The system includes a web scraping component to gather product data and is deployed at: [https://jiyachahal23.pythonanywhere.com/](https://jiyachahal23.pythonanywhere.com/).
+An ML-integrated  product recommender system built with Django, featuring a custom-trained machine learning model that suggests relevant products based on user input. The system includes a web scraping component to gather product data and is deployed at: [https://jiyachahal23.pythonanywhere.com/](https://jiyachahal23.pythonanywhere.com/).
 
 ---
 
